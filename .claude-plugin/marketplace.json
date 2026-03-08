@@ -1,0 +1,31 @@
+{
+  "name": "ccx",
+  "owner": {
+    "name": "jaeyoungs",
+    "url": "https://github.com/youngslab"
+  },
+  "metadata": {
+    "description": "Custom agents for PR review workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ccx",
+      "source": {
+        "source": "github",
+        "repo": "youngslab/ccx"
+      },
+      "description": "Custom agents for PR review workflows — automated analysis, technical validation, and documentation quality checks",
+      "version": "1.0.0",
+      "author": {
+        "name": "jaeyoungs",
+        "url": "https://github.com/youngslab"
+      },
+      "homepage": "https://github.com/youngslab/ccx",
+      "repository": "https://github.com/youngslab/ccx",
+      "license": "MIT",
+      "keywords": ["pr-review", "code-review", "agents", "workflow", "uml"],
+      "category": "productivity"
+    }
+  ]
+}

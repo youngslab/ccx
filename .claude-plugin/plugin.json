@@ -1,7 +1,13 @@
 {
   "name": "ccx",
-  "description": "Personal Claude Code Extension - custom agents for development workflows",
+  "version": "1.0.0",
+  "description": "Custom agents for PR review workflows — automated analysis, technical validation, and documentation quality checks",
   "author": {
-    "name": "jaeyoungs"
-  }
+    "name": "jaeyoungs",
+    "url": "https://github.com/youngslab"
+  },
+  "homepage": "https://github.com/youngslab/ccx",
+  "repository": "https://github.com/youngslab/ccx",
+  "license": "MIT",
+  "keywords": ["pr-review", "code-review", "agents", "workflow", "uml"]
 }
